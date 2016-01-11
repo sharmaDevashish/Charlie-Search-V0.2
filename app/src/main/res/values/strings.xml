@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Charlie Search v1.1</string>
+    <string name="action_settings">Settings</string>
+    <string name="Conn_button">Search</string>
+</resources>
